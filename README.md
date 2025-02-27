@@ -22,3 +22,5 @@ The training and testing data is divided in a ratio of 80 to 20.
 
 After the fine-tuning procedure, various modifications of viewing attention maps should be considered to identify hypotheses.
 Conduct an analysis of the map of each head on each individual layer, which show the importance of specific operations of the input, output sequences and their interrelation. Use the averaged attention maps for statistics, namely, which operations were used most often. And obtain the so-called summary map: number of layers * number of input tokens, which shows the importance of each token on each layer for all heads.
+
+![Example of visualization](https://github.com/sn0rkmaiden/quadratic_equations/blob/main/visualize_attention.jpg)
