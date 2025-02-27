@@ -5,7 +5,7 @@ To detect patterns of attention in the trained model.
 
 ## :trophy: Motivation
 
-The attention mechanism is an extremely common method in modern deep learning models, which allows not only to improve the performance of neural machine translation applications, but also, using, for example, the Transformer model, to increase the speed of training. Currently, the relevance of the problem of studying the capabilities and improving the efficiency of this model is increasing, and therefore, in this paper, we propose to consider in detail how this model consistently solves the problem using the example of solving quadratic equations.
+The attention mechanism is an extremely common method in modern deep learning models, which allows not only to improve the performance of neural machine translation applications, but also, using, for example, the Transformer model, to increase the speed of training. Currently, the relevance of the problem of studying the capabilities and improving the efficiency of this model is increasing, and therefore, in this project, I try to consider in detail how this model consistently solves the problem using the example of solving quadratic equations.
 
 ## :books: Problem statement and research methodology
 
